@@ -1,6 +1,6 @@
 ---
 title: bartr's page
-layout: post
+layout: null
 ---
 
 ## About me
