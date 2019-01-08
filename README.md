@@ -1,4 +1,7 @@
-# bartr's page
+---
+title: bartr's page
+layout: post
+---
 
 ## About me
 
