@@ -1,5 +1,6 @@
 ---
 title: My First Page
+description: My Site Description
 layout: default
 ---
 
