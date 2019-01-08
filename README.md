@@ -1,9 +1,3 @@
----
-title: My First Page
-description: My Site Description
-layout: default
----
-
 # Some cool title
 
 ## About me
